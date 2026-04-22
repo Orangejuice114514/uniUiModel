@@ -1,8 +1,8 @@
 <template>
 	<view>
-		<swiper>
+		<swiper class="h-f">
 			<swiper-item>
-				<div></div>
+				<img></img>
 			</swiper-item>
 			<swiper-item>2</swiper-item>
 			<swiper-item>3</swiper-item>
@@ -24,5 +24,8 @@
 </script>
 
 <style>
-
+.a{
+	height:100vh;
+	width:100vw;
+}
 </style>
