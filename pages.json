@@ -4,7 +4,17 @@
 		"style": {
 			"navigationBarTitleText": "uni-app"
 		}
-	}],
+	}    ,{
+            "path" : "pages/dhy/dhy",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false,
+				"navigationStyle": "custom"
+            }
+            
+        }
+    ],
 	"globalStyle": {
 		"navigationBarTextStyle": "black",
 		"navigationBarTitleText": "uni-app",
